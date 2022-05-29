@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saketh-26
-- 👀 I’m interested in Data.
+- 👀 I love playing with Data.
 - 🌱 I’m Datageek,working on AI.
-- 💞️ Love collaborate wth every passionate and data lover
+- 💞️ Love to collaborate wth every passionate and data lover
 - 📫 24*7 @ saketh@codegnan.com
 
 <!---
